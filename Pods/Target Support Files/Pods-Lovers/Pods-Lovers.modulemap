@@ -1,0 +1,6 @@
+framework module Pods_Lovers {
+  umbrella header "Pods-Lovers-umbrella.h"
+
+  export *
+  module * { export * }
+}
